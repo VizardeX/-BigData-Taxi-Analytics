@@ -13,6 +13,14 @@ This project explores and analyzes New York City taxi trip data using big data t
 - `taxi_trip_data.csv`: Contains ride details such as fare, tip, timestamps, location IDs, and passenger info
 - `taxi_zone_geo.csv`: Maps location IDs to NYC zone names and boroughs
 
+## Dataset Access
+
+Due to file size limitations, the datasets are hosted externally on Google Drive.
+
+🔗 [Download CSV Files](https://drive.google.com/drive/folders/1GkYSp48BCZ26heLnc2XIxq5BlboRf1zG?usp=sharing)
+
+> This folder contains both `taxi_trip_data.csv` and `taxi_zone_geo.csv`.  
+
 ## Key Components
 
 ### Data Preprocessing
