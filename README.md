@@ -38,8 +38,6 @@ Due to file size limitations, the datasets are hosted externally on Google Drive
 - **Inter-borough travel patterns** (pickup to dropoff flows)
 - **Purchase-time patterns** (hour/time-of-day analyses)
 
-> Note: If you want “payment types segmented by time of day,” add a group-by on `(time_of_day, payment_type)` in Spark (see notebook comments).
-
 ### Machine Learning with Spark MLlib
 - **Label:** `high_tip = 1` if tip > **15% of fare**, else `0`
 - **Features:** trip duration, passenger count, pickup/dropoff borough/location encodings, total cost, hour/time-of-day, and other derived fields
