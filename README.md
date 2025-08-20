@@ -45,7 +45,7 @@ Due to file size limitations, the datasets are hosted externally on Google Drive
   - Logistic Regression
   - Decision Tree Classifier
   - Random Forest Classifier
-  - **Gradient-Boosted Trees (GBT)**
+  - Gradient-Boosted Trees (GBT)
 - **Training details:**
   - **Class weighting** applied to address label imbalance
 - **Evaluation metrics:**
